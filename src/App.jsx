@@ -22,10 +22,6 @@ function App() {
           />
         </Route>
       </Routes>
-      <div>
-        <h1>Hello Project</h1>
-        <h3>Hello Project</h3>
-      </div>
     </div>
   );
 }
