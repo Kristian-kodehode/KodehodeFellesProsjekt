@@ -6,7 +6,7 @@ import KristianRoute from "./Routes/Kristian/KristianRoute";
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Routes>
         <Route
           path="/"
