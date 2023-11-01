@@ -1,8 +1,7 @@
-# React + Vite
+# Kodehodene Brancher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tenkte vi kan bruke dette som et øvinsprosjekt for oss alle hvor vi basically får øvd litt på å jobbe med å bruke github i en mer real-life-setting mtp å forke/pulle ut en branch, requests, merge inn igjen etc...gjerne også kjøre requeste "code-review" før merge osv.
 
-Currently, two official plugins are available:
+Det vi lager inni her er irrelevant tenker jeg, og trenger ikke å være noe spesifikt og heller ikke noe heavy shit siden formålet er mer å bare bli vandt med å jobbe med egne branches osv på github :)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Det er Vite - React - Router.
