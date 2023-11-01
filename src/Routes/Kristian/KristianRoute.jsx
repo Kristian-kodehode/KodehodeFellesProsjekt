@@ -1,4 +1,3 @@
-import React from "react";
 import styles from "./styleKristian.module.scss";
 
 const KristianRoute = () => {

@@ -1,6 +1,4 @@
-import React from "react";
 import { Link } from "react-router-dom";
-import KristianRoute from "./Kristian/KristianRoute";
 
 const NavBar = () => {
   return (
